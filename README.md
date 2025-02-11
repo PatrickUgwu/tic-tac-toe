@@ -1,5 +1,5 @@
 # Tic Tac Toe Game 🎮
-
+<img src="tic-tac-toe_demo.png" alt="Tic-Tac-Toe demo image" width="300">
 This is a simple Tic Tac Toe game I built in 2022 to practice coding in Java. It was a fun way to sharpen my skills in object-oriented programming, event handling, and basic UI concepts.
 
 ## 🚀 Features
@@ -35,6 +35,7 @@ This is a simple Tic Tac Toe game I built in 2022 to practice coding in Java. It
 2. Click on a square to place your mark.
 3. Players take turns until one wins or the game ends in a tie.
 4. When a player wins, the game board can be reset for a new round.
+5. If the game restarts, the loser begins.
 
 ## 📚 Possible Improvements
 - Add a single-player mode with AI
